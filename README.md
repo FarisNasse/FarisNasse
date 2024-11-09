@@ -6,8 +6,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've worked on diverse projects, from fitness tracking platforms to implementing Dijkstra's algorithm, combining technical skills with a passion for real-world applications!
 
-[![Faris' GitHub stats](https://github-readme-stats.vercel.app/api?username=FarisNasse)](https://github.com/FarisNasse/github-readme-stats)
-
 <!---
 FarisNasse/FarisNasse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
